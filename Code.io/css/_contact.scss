@@ -1,0 +1,9 @@
+.contact button {
+    background: $PrimaryBtn;
+    transition: background 500ms ease;
+    color: orange;
+    &:hover {
+        background: orange;
+        color: #ffffff;
+    }
+}
